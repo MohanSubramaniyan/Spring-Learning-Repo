@@ -1,0 +1,5 @@
+package com.example.SpringFirst.Controller;
+
+public class Home {
+
+}

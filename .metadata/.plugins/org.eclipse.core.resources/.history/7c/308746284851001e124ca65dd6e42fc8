@@ -1,0 +1,10 @@
+package com.example.SpringFirst.Controller;
+
+
+@RestController
+public class Home {
+
+	
+	
+	
+}
