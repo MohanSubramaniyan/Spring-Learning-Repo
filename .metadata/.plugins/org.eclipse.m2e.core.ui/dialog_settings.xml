@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\postb\OneDrive\Desktop\SpringBoot\demo"/>
 			<item value="C:\Users\postb\Downloads\SpringFirst"/>
 		</list>
 		<list key="projectNameTemplate">
